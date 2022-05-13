@@ -38,6 +38,16 @@ Answer
  console.log(a)
  ```
 
+Q3
+```javascript
+let a=100;
+const App2=()=>{
+console.log("2",a)
+a=33;
+}
+App2()
+```
+
 
 
 
