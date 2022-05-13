@@ -6,7 +6,8 @@
 Answer
 </summary>
 <p>It is the state where variables are unreachable</p>
-```let``` and ``` const ``` in Es6 are blocked scope which means they can only be accessible within scope
+
+```let``` and ```const``` in Es6 are blocked scope which means they can only be accessible within scope
 {
 
 }
