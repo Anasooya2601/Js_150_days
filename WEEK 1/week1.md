@@ -16,7 +16,7 @@ Answer
 </details>
 
 
-
+--------
 ### Exercises
 
 #### Q1.
@@ -46,6 +46,16 @@ console.log("2",a)
 a=33;
 }
 App2()
+```
+
+Q4.
+```javascript
+let a=42;
+{
+    let a=100;
+}
+console.log(a)
+
 ```
 
 

@@ -18,14 +18,14 @@
 // App2()
 //------- Q4-------
 
-let a=100;
-const App2=()=>{
-    // console.log("1",a)
-    a=28;
-    console.log("1",a)
-}
+// let a=100;
+// const App2=()=>{
+//     // console.log("1",a)
+//     a=28;
+//     console.log("1",a)
+// }
 
-App2()
+// App2()
 //------- Q5------
 // let a=100;
 // const App2=()=>{
@@ -33,3 +33,8 @@ App2()
 // a=33;
 // }
 // App2()p
+let a=42;
+{
+    let a=100;
+}
+console.log(a)
