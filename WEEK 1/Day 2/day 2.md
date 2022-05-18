@@ -59,3 +59,22 @@ console.log(bam);
 
 ```
 
+Q5.
+```javascript
+function foo(){
+    console.log(name)
+    let name="ana"
+    
+}
+foo()
+```
+Q6
+```JAVASCRIPT
+function foo(){
+let name="ana"
+console.log(name)
+}
+
+foo()
+
+```

@@ -72,11 +72,35 @@
 
 //-----
 
-function foo()
-{
-    console.log(name)
-    var name="ana"
+// function foo()
+// {
+//     console.log(name)
+//     var name="ana"
   
     
+// }
+// foo()
+// console.log(typeof foo);
+
+// var foo = 'foo';
+
+// function foo () {
+//     var bam = 'bam';
+//     console.log(bam);
+// }
+
+//** let  */
+
+// function foo(){
+//     console.log(name)
+//     let name="ana"
+    
+// }
+// foo()
+
+function foo(){
+let name="ana"
+console.log(name)
 }
+
 foo()
