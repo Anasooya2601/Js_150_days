@@ -57,7 +57,29 @@ let a=42;
 console.log(a)
 
 ```
+Q5.
+```javascript
+     let a=100;
+function App(){
+    console.log("1",a)
+    let a=42;
+    console.log("2",a);{
+        let a-100;
+    }
+    console.log("3",a);
+}
+App();
 
+```
+
+<details>
+<summary>
+Answer
+</summary>
+<p></p>
+
+
+</details>
 
 
 
