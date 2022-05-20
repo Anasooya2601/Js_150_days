@@ -5,6 +5,6 @@ Q1. What do you mean by `single threaded` in javascript?
 <summary>
  
 <details>
- answer
+
 </details>
 </summary>
