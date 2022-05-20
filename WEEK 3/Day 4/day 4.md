@@ -4,8 +4,9 @@
 Q1. What do you mean by `single threaded` in javascript?
 
 <details>
-answer
+
 <summary>
+answer
 <p>
 This means js can execute only one at a time.two things happening in call stack:
 <ul>
@@ -16,8 +17,7 @@ memory allocation
 execution context
 </li>
 </ul>
-
-
 </p>
 </summary>
 </details>
+
