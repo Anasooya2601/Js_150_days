@@ -4,7 +4,6 @@
 Q1. What do you mean by `single threaded` in javascript?
 
 <details>
-
 <summary>
 answer
 <p>
